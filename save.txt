@@ -1,11 +1,18 @@
 git add .  - all file add in stagging area 
 git commit -m "add comment" add local area 
-git push - push into remote repo(GitHub)
+git push - push into remote repo(GitHub) by default comes at main
 git config --global user.name "name_of user"
 git config --global user.email "valid email"
 git status - compare
 git branch branch name - new branch create 
 git checkout branch_name - move to branch
 git pull - like as copied  updated repo
+git push origin branch name - push at specified branch
+git config --global color.ui true
+hghcc
+jgcyfc
+
+
+
 
  
