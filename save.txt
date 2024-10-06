@@ -1,0 +1,11 @@
+git add .  - all file add in stagging area 
+git commit -m "add comment" add local area 
+git push - push into remote repo(GitHub)
+git config --global user.name "name_of user"
+git config --global user.email "valid email"
+git status - compare
+git branch branch name - new branch create 
+git checkout branch_name - move to branch
+git pull - like as copied  updated repo
+
+ 
